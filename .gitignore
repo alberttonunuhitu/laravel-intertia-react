@@ -1,3 +1,4 @@
+/bootstrap/ssr
 /node_modules
 /public/build
 /public/hot
@@ -15,3 +16,4 @@ yarn-error.log
 /.idea
 /.vscode
 composer.lock
+package-lock.json
